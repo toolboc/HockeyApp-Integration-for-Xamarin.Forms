@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Forms.Shared.Xaml.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,8 @@ namespace Forms.Shared.Xaml
 	{
 		public MainPage()
 		{
-			InitializeComponent();
+            DependencyService.Get<IMetricsManagerService>().TrackEvent("AppStarted");
+            InitializeComponent();
 		}
 	}
 }
