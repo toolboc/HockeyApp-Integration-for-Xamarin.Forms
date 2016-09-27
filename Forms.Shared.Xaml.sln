@@ -18,8 +18,11 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Forms.Shared.Xaml\Forms.Shared.Xaml\Forms.Shared.Xaml.projitems*{04dad9e1-a23b-4827-a25d-d94b89588a68}*SharedItemsImports = 4
+		Forms.Shared.Xaml\Forms.Shared.Xaml\Forms.Shared.Xaml.projitems*{9256cd0f-797d-41c5-a3d1-dab3eebce701}*SharedItemsImports = 4
+		Forms.Shared.Xaml\Forms.Shared.Xaml\Forms.Shared.Xaml.projitems*{9307cd16-2e8e-4a63-b09d-f064d6b3a800}*SharedItemsImports = 4
 		Forms.Shared.Xaml\Forms.Shared.Xaml\Forms.Shared.Xaml.projitems*{9c3d8cec-face-4289-8b55-062447aa4466}*SharedItemsImports = 4
 		Forms.Shared.Xaml\Forms.Shared.Xaml\Forms.Shared.Xaml.projitems*{b6b42b9e-e15c-4a45-889b-881c0436d43d}*SharedItemsImports = 13
+		Forms.Shared.Xaml\Forms.Shared.Xaml\Forms.Shared.Xaml.projitems*{d09c0570-5aad-42eb-9134-f58aacd8cab9}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
